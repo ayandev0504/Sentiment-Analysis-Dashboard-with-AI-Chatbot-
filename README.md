@@ -119,11 +119,10 @@ PRs are welcome! Feel free to fork this repo and suggest improvements.
 ---
 
 ## 💡 Demo Screenshot
-
-![Dashboard Screenshot](path/to/your/screenshot.png)
 <img width="1266" height="450" alt="dashboard" src="https://github.com/user-attachments/assets/ba368e93-1c51-4fa5-a04c-99e91349a016" />
 <img width="1920" height="1008" alt="dashboard1" src="https://github.com/user-attachments/assets/99b23a8f-20b4-47b9-92b0-6bf38e158094" />
 
 
 ---
+
 
