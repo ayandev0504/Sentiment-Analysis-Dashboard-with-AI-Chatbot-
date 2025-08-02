@@ -53,10 +53,6 @@ ollama serve
 
 ```bash
 streamlit run app.py
-```
-
----
-
 ---
 
 ## 📃 Usage
@@ -124,5 +120,6 @@ PRs are welcome! Feel free to fork this repo and suggest improvements.
 
 
 ---
+
 
 
